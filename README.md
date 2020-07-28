@@ -9,4 +9,4 @@
 
 ## Run
 
-Execute `ts-nose`. The script will prompt username and password.
+Execute `npm run start`. The script will prompt username and password.
