@@ -1,0 +1,20 @@
+{
+  "name": "my-tennis",
+  "version": "1.0.0",
+  "description": "FFT data",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "Jeremy",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^7.3.0",
+    "@types/puppeteer": "^3.0.1",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
